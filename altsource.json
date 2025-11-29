@@ -1,0 +1,174 @@
+{
+  "name": "Ben's Store",
+  "identifier": "com.bensstore.altsource",
+  "newsURL": "https://bens-sideloads.blog/news.json",
+  "iconURL": "https://placehold.co/1024x1024/22c55e/ffffff?text=B's",
+  "website": "https://bens-sideloads.blog",
+  "description": "A powerful collection of unique utilities, essential emulators, and must-have tweaked apps for the serious iOS sideloading community. Includes tools to bypass the 3-app limit.",
+  "apps": [
+    {
+      "name": "NeoFreeBird",
+      "bundleIdentifier": "com.twitter.NeoFreeBird",
+      "developerName": "actuallyaridan & Contributors",
+      "subtitle": "Restores the classic Twitter experience with advanced features.",
+      "localizedDescription": "NeoFreeBird is a modified client that brings back the old Twitter branding (bird icon, Tweet button) and adds powerful quality-of-life features, including an ad-blocker, media downloading, and extensive layout customization.",
+      "iconURL": "https://placehold.co/1024x1024/00acee/ffffff?text=🐦",
+      "tintColor": "#1DA1F2",
+      "versions": [
+        {
+          "version": "2.2",
+          "buildVersion": "22000",
+          "date": "2025-11-28",
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.2/NeoFreeBird-2.2-Twitter-11.35.ipa",
+          "size": 185000000
+        }
+      ]
+    },
+    {
+      "name": "Delta Emulator",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "subtitle": "The ultimate multi-system retro game emulator for iOS.",
+      "localizedDescription": "Delta is a powerful all-in-one emulator for Nintendo, Game Boy, N64, and more. It supports controller skins, cheat codes, save states, and cloud sync. A community favorite and must-have for retro gaming on iPhone.",
+      "iconURL": "https://placehold.co/1024x1024/e94c34/ffffff?text=🎮",
+      "tintColor": "#E94C34",
+      "versions": [
+        {
+          "version": "1.6",
+          "buildVersion": "10060",
+          "date": "2025-11-01",
+          "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+          "size": 155000000
+        }
+      ]
+    },
+    {
+      "name": "DolphiniOS",
+      "bundleIdentifier": "com.oatmealdome.dolphinios",
+      "developerName": "OatmealDome",
+      "subtitle": "GameCube and Wii emulation in your pocket.",
+      "localizedDescription": "A port of the famous Dolphin emulator to iOS devices, allowing you to play GameCube and Wii games. Requires JIT (Just-In-Time) compilation for best performance, which AltStore supports.",
+      "iconURL": "https://placehold.co/1024x1024/009dcc/ffffff?text=D",
+      "tintColor": "#009dcc",
+      "versions": [
+        {
+          "version": "5.0.0b4",
+          "buildVersion": "50004",
+          "date": "2025-11-15",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+          "size": 355000000
+        }
+      ]
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.utm",
+      "developerName": "UTM Developers",
+      "subtitle": "The full, high-performance Virtual Machine for iOS.",
+      "localizedDescription": "The full version of the acclaimed UTM virtual machine, enabling full virtualization of OSes like Windows, macOS, and Linux. Provides superior performance over UTM SE, but typically requires JIT/AltJIT compilation for optimal speed.",
+      "iconURL": "https://placehold.co/1024x1024/007bff/ffffff?text=UTM",
+      "tintColor": "#007bff",
+      "versions": [
+        {
+          "version": "4.7.4",
+          "buildVersion": "40704",
+          "date": "2025-10-25",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM.ipa",
+          "size": 130000000
+        }
+      ]
+    },
+    {
+      "name": "UTM SE",
+      "bundleIdentifier": "com.utmapp.utmse",
+      "developerName": "UTM Developers",
+      "subtitle": "Sideloaded Edition of UTM, perfect for standard devices.",
+      "localizedDescription": "UTM SE (Sideloaded Edition) is a version of the Virtual Machine optimized for sideloading, allowing you to run various operating systems, including older versions of Windows and Linux distros, directly on your iOS device.",
+      "iconURL": "https://placehold.co/1024x1024/4CAF50/ffffff?text=VM",
+      "tintColor": "#4CAF50",
+      "versions": [
+        {
+          "version": "4.7.4",
+          "buildVersion": "40704",
+          "date": "2025-10-25",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM-SE.ipa",
+          "size": 125000000
+        }
+      ]
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "Duy Tran Khanh",
+      "subtitle": "Bypass the 3-app limit by virtualizing apps inside one container.",
+      "localizedDescription": "LiveContainer is an innovative utility that allows users to run an *unlimited* number of apps without actually installing them, thereby bypassing the free 3-app limit imposed by Apple. It runs apps in a virtual environment with JIT support (when available).",
+      "iconURL": "https://placehold.co/1024x1024/5DADE2/ffffff?text=LC",
+      "tintColor": "#5DADE2",
+      "versions": [
+        {
+          "version": "3.6.1",
+          "buildVersion": "30601",
+          "date": "2025-11-10",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
+          "size": 35000000
+        }
+      ]
+    },
+    {
+      "name": "Watusi for WhatsApp",
+      "bundleIdentifier": "net.whatsapp.Watusi",
+      "developerName": "Fouad Raheb",
+      "subtitle": "Advanced privacy and feature enhancements for WhatsApp.",
+      "localizedDescription": "Watusi is a tweak for WhatsApp that adds features like stealth mode (hide read receipts, typing indicator, online status), passcode lock, unlimited pinned chats, and enhanced media controls. (Note: Requires a clean WhatsApp IPA to inject the tweak.)",
+      "iconURL": "https://placehold.co/1024x1024/25D366/ffffff?text=WA+",
+      "tintColor": "#25D366",
+      "versions": [
+        {
+          "version": "1.2.93",
+          "buildVersion": "10293",
+          "date": "2025-11-20",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.93/net.whatsapp.WhatsApp_25.33.73_watusi3_1.2.93_sl.ipa",
+          "size": 155000000
+        }
+      ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent",
+      "developerName": "Xitrix",
+      "subtitle": "A fully-featured torrent client for iOS devices.",
+      "localizedDescription": "iTorrent allows you to download files using magnet links and torrent files directly on your iPhone. Supports background downloading, port management, and managing multiple active transfers. Great for accessing legally shareable open-source files.",
+      "iconURL": "https://placehold.co/1024x1024/007AFF/ffffff?text=🌊",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "2.1.0-1",
+          "buildVersion": "20101",
+          "date": "2025-11-01",
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.0-1/iTorrent.ipa",
+          "size": 9000000
+        }
+      ]
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "com.khcrysalis.Feather",
+      "developerName": "khcrysalis",
+      "subtitle": "An essential on-device utility for re-signing and installing IPAs.",
+      "localizedDescription": "Feather is a powerful utility for advanced sideloaders. It allows you to re-sign and install IPAs directly on your device using your own developer or distribution certificates, providing maximum control and management over your installed applications.",
+      "iconURL": "https://placehold.co/1024x1024/7c3aed/ffffff?text=🖋️",
+      "tintColor": "#7c3aed",
+      "versions": [
+        {
+          "version": "2.4.0",
+          "buildVersion": "20400",
+          "date": "2025-11-20",
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.4.0/Feather.ipa",
+          "size": 7000000
+        }
+      ]
+    }
+  ]
+}
+
+
