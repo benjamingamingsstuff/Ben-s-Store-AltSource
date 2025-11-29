@@ -2,7 +2,7 @@
   "name": "Ben's Store",
   "identifier": "com.bensstore.altsource",
   "newsURL": "https://bens-sideloads.blog/news.json",
-  "iconURL": "https://placehold.co/1024x1024/22c55e/ffffff?text=B's",
+  "iconURL": "https://raw.githubusercontent.com/altstore/altstore-apps/master/apps/delta/icon.png",
   "website": "https://bens-sideloads.blog",
   "description": "A powerful collection of unique utilities, essential emulators, and must-have tweaked apps for the serious iOS sideloading community. Includes tools to bypass the 3-app limit.",
   "apps": [
@@ -12,7 +12,7 @@
       "developerName": "actuallyaridan & Contributors",
       "subtitle": "Restores the classic Twitter experience with advanced features.",
       "localizedDescription": "NeoFreeBird is a modified client that brings back the old Twitter branding (bird icon, Tweet button) and adds powerful quality-of-life features, including an ad-blocker, media downloading, and extensive layout customization.",
-      "iconURL": "https://placehold.co/1024x1024/00acee/ffffff?text=🐦",
+      "iconURL": "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/main/Assets/Icon-AltStore.png",
       "tintColor": "#1DA1F2",
       "versions": [
         {
@@ -30,7 +30,7 @@
       "developerName": "Riley Testut",
       "subtitle": "The ultimate multi-system retro game emulator for iOS.",
       "localizedDescription": "Delta is a powerful all-in-one emulator for Nintendo, Game Boy, N64, and more. It supports controller skins, cheat codes, save states, and cloud sync. A community favorite and must-have for retro gaming on iPhone.",
-      "iconURL": "https://placehold.co/1024x1024/e94c34/ffffff?text=🎮",
+      "iconURL": "https://raw.githubusercontent.com/altstore/altstore-apps/master/apps/delta/icon.png",
       "tintColor": "#E94C34",
       "versions": [
         {
@@ -44,11 +44,11 @@
     },
     {
       "name": "DolphiniOS",
-      "bundleIdentifier": "com.oatmealdome.dolphinios",
+      "bundleIdentifier": "com.oatmealdome.DolphiniOS",
       "developerName": "OatmealDome",
       "subtitle": "GameCube and Wii emulation in your pocket.",
       "localizedDescription": "A port of the famous Dolphin emulator to iOS devices, allowing you to play GameCube and Wii games. Requires JIT (Just-In-Time) compilation for best performance, which AltStore supports.",
-      "iconURL": "https://placehold.co/1024x1024/009dcc/ffffff?text=D",
+      "iconURL": "https://raw.githubusercontent.com/OatmealDome/DolphiniOS-Assets/master/Icon.png",
       "tintColor": "#009dcc",
       "versions": [
         {
@@ -62,12 +62,12 @@
     },
     {
       "name": "UTM",
-      "bundleIdentifier": "com.utmapp.utm",
+      "bundleIdentifier": "com.utmapp.UTM",
       "developerName": "UTM Developers",
       "subtitle": "The full, high-performance Virtual Machine for iOS.",
       "localizedDescription": "The full version of the acclaimed UTM virtual machine, enabling full virtualization of OSes like Windows, macOS, and Linux. Provides superior performance over UTM SE, but typically requires JIT/AltJIT compilation for optimal speed.",
-      "iconURL": "https://placehold.co/1024x1024/007bff/ffffff?text=UTM",
-      "tintColor": "#007bff",
+      "iconURL": "https://raw.githubusercontent.com/utmapp/UTM/master/platform/iOS/AppIcon.png",
+      "tintColor": "#8A2BE2",
       "versions": [
         {
           "version": "4.7.4",
@@ -80,11 +80,11 @@
     },
     {
       "name": "UTM SE",
-      "bundleIdentifier": "com.utmapp.utmse",
+      "bundleIdentifier": "com.utmapp.UTM-SE",
       "developerName": "UTM Developers",
-      "subtitle": "Sideloaded Edition of UTM, perfect for standard devices.",
-      "localizedDescription": "UTM SE (Sideloaded Edition) is a version of the Virtual Machine optimized for sideloading, allowing you to run various operating systems, including older versions of Windows and Linux distros, directly on your iOS device.",
-      "iconURL": "https://placehold.co/1024x1024/4CAF50/ffffff?text=VM",
+      "subtitle": "Sideloaded Edition of UTM, optimized for standard sideloading.",
+      "localizedDescription": "UTM SE (Sideloaded Edition) is a version of the Virtual Machine optimized for sideloading and uses different entitlements. It allows you to run various operating systems, including older versions of Windows and Linux distros, directly on your iOS device.",
+      "iconURL": "https://raw.githubusercontent.com/utmapp/UTM/master/platform/iOS/AppIcon-SE.png",
       "tintColor": "#4CAF50",
       "versions": [
         {
@@ -98,11 +98,11 @@
     },
     {
       "name": "LiveContainer",
-      "bundleIdentifier": "com.kdt.livecontainer",
+      "bundleIdentifier": "com.kdt.LiveContainer",
       "developerName": "Duy Tran Khanh",
       "subtitle": "Bypass the 3-app limit by virtualizing apps inside one container.",
       "localizedDescription": "LiveContainer is an innovative utility that allows users to run an *unlimited* number of apps without actually installing them, thereby bypassing the free 3-app limit imposed by Apple. It runs apps in a virtual environment with JIT support (when available).",
-      "iconURL": "https://placehold.co/1024x1024/5DADE2/ffffff?text=LC",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/master/Assets.xcassets/AppIcon.appiconset/AppIcon-512x512.png",
       "tintColor": "#5DADE2",
       "versions": [
         {
@@ -116,11 +116,11 @@
     },
     {
       "name": "Watusi for WhatsApp",
-      "bundleIdentifier": "net.whatsapp.Watusi",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "Fouad Raheb",
       "subtitle": "Advanced privacy and feature enhancements for WhatsApp.",
-      "localizedDescription": "Watusi is a tweak for WhatsApp that adds features like stealth mode (hide read receipts, typing indicator, online status), passcode lock, unlimited pinned chats, and enhanced media controls. (Note: Requires a clean WhatsApp IPA to inject the tweak.)",
-      "iconURL": "https://placehold.co/1024x1024/25D366/ffffff?text=WA+",
+      "localizedDescription": "Watusi is a tweak for WhatsApp that adds features like stealth mode (hide read receipts, typing indicator, online status), passcode lock, unlimited pinned chats, and enhanced media controls. This IPA is typically intended to be sideloaded with the *original* WhatsApp bundle ID to replace or modify the stock app.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/images/AppIcon.png",
       "tintColor": "#25D366",
       "versions": [
         {
@@ -138,7 +138,7 @@
       "developerName": "Xitrix",
       "subtitle": "A fully-featured torrent client for iOS devices.",
       "localizedDescription": "iTorrent allows you to download files using magnet links and torrent files directly on your iPhone. Supports background downloading, port management, and managing multiple active transfers. Great for accessing legally shareable open-source files.",
-      "iconURL": "https://placehold.co/1024x1024/007AFF/ffffff?text=🌊",
+      "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent-Assets/master/Icon.png",
       "tintColor": "#007AFF",
       "versions": [
         {
@@ -156,7 +156,7 @@
       "developerName": "khcrysalis",
       "subtitle": "An essential on-device utility for re-signing and installing IPAs.",
       "localizedDescription": "Feather is a powerful utility for advanced sideloaders. It allows you to re-sign and install IPAs directly on your device using your own developer or distribution certificates, providing maximum control and management over your installed applications.",
-      "iconURL": "https://placehold.co/1024x1024/7c3aed/ffffff?text=🖋️",
+      "iconURL": "https://raw.githubusercontent.com/khcrysalis/Feather-Assets/main/icon.png",
       "tintColor": "#7c3aed",
       "versions": [
         {
